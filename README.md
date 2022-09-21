@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @besco1998
-- 👀 I’m interested in progrraming and robotics
-- 🌱 I’m currently learning machine learning , mobile application development and web application programs
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in communctation systems, Embeded systems, programing and robotics
+- 🌱 I’m currently learning machine learning , mobile application development and Embeded systems
+- 💞️ I’m looking to collaborate on implementing more ideas in functioning systems
 - 📫 How to reach me besco1998@yahoo.com or mohamed.besco1998@gmail.com
 
 <!---
