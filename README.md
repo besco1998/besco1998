@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @besco1998
+- 👋 Hi, I’m Mohamed Ashraf, Electrical and Communication Engineer.
 - 👀 I’m interested in communctation systems, Embeded systems, programing and robotics
 - 🌱 I’m currently learning AI , mobile application development
 - 💞️ I’m looking to collaborate on implementing more ideas in functioning systems
